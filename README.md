@@ -8,4 +8,12 @@ Pin Code : 111111
 this is readme file
 
 
-this is on updates1 branch
+<<<<<<< HEAD
+<<<<<<< HEAD
+I hope this isn't much of a problem
+=======
+this is bound to trouble
+>>>>>>> very-bad
+=======
+this is bound to trouble
+>>>>>>> very-bad
